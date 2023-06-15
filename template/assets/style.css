@@ -1,0 +1,34 @@
+html {
+    overflow: hidden;
+}
+body {
+    overflow: hidden;
+    padding: 0;
+    margin: 0;
+    width: 100%;
+    height: 100%;
+    background: gray;
+}
+div.container{
+    background-color: rgb(96, 222, 159);
+    padding: 2%;
+    margin-top: 30px;
+    
+}
+#log {
+    border-radius: 50px;
+    height: 70vh;
+    background-color: aqua;
+    padding: 20px;
+}
+#form {
+    width: 100%;
+    overflow: hidden;
+    margin: 20px auto;  
+}
+#msg{
+    width: 90%;
+}
+#btn{
+    width: 9%;
+}
